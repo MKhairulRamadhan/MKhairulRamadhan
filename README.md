@@ -1,5 +1,5 @@
-### Hey there <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" width="25px">
-<a href="www.linkedin.com/in/mkhairulramadhan">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://linkedin.com/in/mkhairulramadhan">
   <img align="left" alt="linkIn khairul" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="#">
@@ -21,7 +21,8 @@
 
 Hi, I'm [M Khairul Ramadhan!](https://github.com/MKhairulRamadhan), a professional Fullstack Develooper especially Back-End Web Service, Fluuter, and Android Developer native 🚀 from Indonesia.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="
+  " src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
