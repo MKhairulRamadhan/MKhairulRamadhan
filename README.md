@@ -19,7 +19,7 @@
 
 <br />
 
-Hi, I'm [M Khairul Ramadhan!](https://github.com/MKhairulRamadhan), a professional Fullstack Develooper especially Back-End Web Service, Fluuter, and Android Developer native 🚀 from Indonesia.
+Hi, I'm [M Khairul Ramadhan!](https://github.com/MKhairulRamadhan), a Fullstack Develooper especially Back-End Web Service, Fluuter, and Android Developer native 🚀 from Indonesia.
 
   <img align="right" alt="
   " src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" width="500" height="320" />
